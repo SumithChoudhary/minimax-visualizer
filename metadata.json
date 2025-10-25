@@ -1,0 +1,5 @@
+{
+  "name": "Minimax Tree Visualizer",
+  "description": "An interactive tool to visualize the Minimax algorithm with Alpha-Beta pruning on a search tree. Users can input a tree structure, step through the algorithm's execution, and get AI-powered explanations for each step.",
+  "requestFramePermissions": []
+}
